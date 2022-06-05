@@ -3,7 +3,7 @@ Tugas UTS Web Programming 3, Kelompok 2 PASARIN
 tutorial : 
 - ekstrak file rar/zip ke htdoc
 - lalu nama file toko_online
-- import database ke phpmyadmin
+- import database "pasarin.sql" ke phpmyadmin
 - tulis alamat localhostnya ( localhost/toko_online/ )
 Nama & NIM kelompok "PASARIN" :
 1. Yocxan Maximilian (19200806)
